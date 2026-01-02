@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale: "en-US"
 site_theme: "default"
-title: "Zirui Wang"
+title: "Linxi Liang"
 title_separator: "-"
-name: &name "Zirui Wang"
+name: &name "Linxi Liang"
 description: &description "personal description"
 url: "https://Lynnsee7.github.io/"
 baseurl: "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository: "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar: "profile.png"
-  name: "Zirui Wang"
+  name: "Linxi Liang"
   pronouns: # example: "she/her"
   bio: ""
   location: "HongKong & GuangDong, China"
