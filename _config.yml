@@ -26,15 +26,15 @@ author:
   name: "Linxi Liang"
   pronouns: # example: "she/her"
   bio: ""
-  location: "HongKong & GuangDong, China"
+  location: "Shenzhen, China"
   employer: "Sun Yat-sen University"
   uri: # URL
-  email: "rhyswang0405@gmail.com;wangzr39@mail2.sysu.edu.cn;zrwang@cse.cuhk.edu.hk"
+  email: "lianglx26@mail2.sysu.edu.cn"
 
   # Academic websites
   academia: # URL
   arxiv: # URL - Update with the correct link to your profile
-  googlescholar: " "
+  googlescholar: "https://scholar.google.com/citations?user=U6KMqI0AAAAJ&hl=en"
   github: "Lynnsee7"
   impactstory: # URL
   orcid: #"https://orcid.org/0009-0004-5773-8716"

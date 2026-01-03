@@ -59,14 +59,12 @@ I will join the **[S3 Lab](https://github.com/cuhk-s3)** led by **[Prof. Shaohua
 
 You can view my **CV** here: [English version](https://drive.google.com/file/d/1C0UyQC3EjuYsMd4WkLEKwHUUSkUQ8Vrq/view?usp=sharing)&[Chinese version](https://drive.google.com/file/d/18LoLKecBpM8NQHUDMtqaOSp7rE4cjySM/view?usp=sharing) 📄. Please feel free to reach out for further discussion: [rhyswang0405@gmail.com](mailto:rhyswang0405@gmail.com); [wangzr39@mail2.sysu.edu.cn](mailto:wangzr39@mail2.sysu.edu.cn); [zrwang@cse.cuhk.edu.hk](mailto:zrwang@cse.cuhk.edu.hk) 📧
 
----
+<!-- ---
 # 🎓 Education 
-<img src="../images/sysu.jpeg" alt="Sun Yat-sen University" style="float: left; width: 103.5px; height: auto; margin-right: 15px; margin-bottom: 0px; border-radius: 8px;">
 <span style="font-size: 1.2em; font-weight: bold;">Bachelor's Degree</span>  
 *2022.09 - 2026.6 (Expected)*: **Sun Yat-sen University(SYSU)**  
 Department: ***School of Software Engineering***  
 GPA: 4.0/4.0; Rank: 2/167
-<div style="clear: both;"></div>
 <!--  # Project Experience -->
 <!-- Internships -->
 <!-- Academic Services -->
