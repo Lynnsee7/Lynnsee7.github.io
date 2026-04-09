@@ -40,12 +40,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Skills
-======
-* **Programming Languages**: Python, Java, C++, C, Rust
-* **ML/DL**: PyTorch, HuggingFace Transformers, Scikit-learn; LLM fine-tuning, Prompt engineering, RLHF
-* **Tools**: Git, Docker, Anaconda
-* **Language**: Chinese (native), English (IELTS 6.5)
 
 Awards & Honors
 ======
