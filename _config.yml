@@ -12,10 +12,10 @@ site_theme: "default"
 title: "Linxi Liang"
 title_separator: "-"
 name: &name "Linxi Liang"
-description: &description "personal description"
+description: &description "Incoming PhD student at CUHK-SZ. Research interests: AI for SE and SE for AI."
 url: "https://Lynnsee7.github.io/"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "academicpages/academicpages.github.io"
+repository: "Lynnsee7/Lynnsee7.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,11 +25,11 @@ author:
   avatar: "profile.png"
   name: "Linxi Liang"
   pronouns: # example: "she/her"
-  bio: ""
+  bio: "Incoming PhD @ CUHK-SZ · AI for SE & SE for AI"
   location: "Shenzhen, China"
-  employer: "Sun Yat-sen University"
+  employer: "Sun Yat-sen University / Incoming PhD @ CUHK-SZ"
   uri: # URL
-  email: "lianglx26@mail2.sysu.edu.cn"
+  email: "linxiliang7170@gmail.com"
 
   # Academic websites
   academia: # URL

@@ -19,14 +19,6 @@ html {
 }
 
 body {
-     /* Prefer Menlo for Latin text (common on macOS). Menlo is monospace and
-         may affect layout; include Monaco and serif/CJK fallbacks for other
-         platforms and Chinese glyphs. */
-     /* Prefer Google Sans Code (via Google Fonts import above). Keep other
-         fallbacks so platforms without the font still display sensibly. If the
-         font isn't available the browser will use the fallbacks. Note: this is
-         a code-style (monospace) face and may affect layout when applied to
-         body; consider scoping to code blocks if needed. */
      font-family: 'Google Sans Code', 'Charter', 'Source Han Serif SC', 'Noto Serif SC', 'Georgia', serif !important;
      line-height: var(--line-height-base) !important;
 }
@@ -49,68 +41,36 @@ li {
 }
 </style>
 
-<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=43&pause=1000&color=F76742&vCenter=true&width=800&lines=%F0%9F%91%8B+Hello%2C+I'm+Zirui." alt="Hello, I'm Zirui." style="display:block;margin:0px auto 12px;" />
+<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=43&pause=1000&color=F76742&vCenter=true&width=800&lines=%F0%9F%91%8B+Hello%2C+I'm+Linxi." alt="Hello, I'm Linxi." style="display:block;margin:0px auto 12px;" />
 
-I'm currently an undergraduate student in the ***[School of Software Engineering](https://sse.sysu.edu.cn/)*** at **[Sun Yat-Sen University(SYSU)](https://www.sysu.edu.cn/sysuen/)** with research interests in **software systems**, **AI infrastructure**(especially **AI training&inference framework**, **AI compiler** and **AI compute architecture**), **LLM4code**, **multi-agent system**, **AI4compiler**, **AI4SE** and **webassembly**. I am passionate about projects that have a positive impact on everyday life and the community 🌟.
+I'm currently an undergraduate student in the ***[School of Software Engineering](https://sse.sysu.edu.cn/)*** at **[Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn/sysuen/)**. My research interests lie in **AI for SE** (LLM security, code generation, and software testing) and **SE for AI** (development, testing, and operation of AI systems).
 
-I was advised by **[Prof. Yuxin Su](https://sse.sysu.edu.cn/teacher/221)** at **Sun Yat-sen University**. During April 2025 to November 2025, I served as a Research Assistant in ARISE Lab led by **[Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/)** at **The Chinese University of Hong Kong**.
+I will join the **[School of Data Science](https://sds.cuhk.edu.cn/en)** at **[The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en)** to pursue a **Ph.D. in Computer Science starting Fall 2026**, advised by **[Prof. Pinjia He](https://pinjiahe.github.io/)**.
 
-I will join the **[S3 Lab](https://github.com/cuhk-s3)** led by **[Prof. Shaohua Li](https://shao-hua-li.github.io/)** in the ***[Department of Computer Science and Engineering(CSE)](https://www.cse.cuhk.edu.hk/)*** at **[The Chinese University of Hong Kong(CUHK)](https://www.cuhk.edu.hk/english/index.html)** to pursue my **PhD starting Fall 2026**.
-
-You can view my **CV** here: [English version](https://drive.google.com/file/d/1C0UyQC3EjuYsMd4WkLEKwHUUSkUQ8Vrq/view?usp=sharing)&[Chinese version](https://drive.google.com/file/d/18LoLKecBpM8NQHUDMtqaOSp7rE4cjySM/view?usp=sharing) 📄. Please feel free to reach out for further discussion: [rhyswang0405@gmail.com](mailto:rhyswang0405@gmail.com); [wangzr39@mail2.sysu.edu.cn](mailto:wangzr39@mail2.sysu.edu.cn); [zrwang@cse.cuhk.edu.hk](mailto:zrwang@cse.cuhk.edu.hk) 📧
-
-<!-- ---
-# 🎓 Education 
-<span style="font-size: 1.2em; font-weight: bold;">Bachelor's Degree</span>  
-*2022.09 - 2026.6 (Expected)*: **Sun Yat-sen University(SYSU)**  
-Department: ***School of Software Engineering***  
-GPA: 4.0/4.0; Rank: 2/167
-<!--  # Project Experience -->
-<!-- Internships -->
-<!-- Academic Services -->
+Please feel free to reach out: [linxiliang7170@gmail.com](mailto:linxiliang7170@gmail.com) 📧
 
 ---
-# 🧑‍💻 Internships
-- *2025.04 - 2025.10*: The Chinese University of Hong Kong(CUHK) ARISE Lab in collaboration with Huawei 2012 Lab, **Research Assistant**, worked with **[Dr. Guangba Yu](https://yuxiaoba.github.io/)**.
+# 🎓 Education
+
+- *2026.09 – 2031.06 (admitted)*: **The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)**
+  - Ph.D. in Computer Science, [School of Data Science](https://sds.cuhk.edu.cn/en)
+  - Advisor: [Prof. Pinjia He](https://pinjiahe.github.io/)
+
+- *2022.09 – 2026.06*: **Sun Yat-sen University (SYSU)**
+  - B.S. in Software Engineering, [School of Software Engineering](https://sse.sysu.edu.cn/)
+  - Advisor: Assoc. Prof. Mingwei Liu
 
 ---
-# 🏆 Awards & Honors 
-<span style="font-size: 1.2em; font-weight: bold;">Scholarships</span>  
-- 1st Class Scholarship for Outstanding Student (*2022 - 2023*, top 5%)
-- Merchants Union Consumer Finance Company Limited Scholarship (*2022 - 2023*, top 5%, Biennial award)
-- Arts&Culture Scholarship (*2022 - 2023*)
-- 2nd Class Scholarship for Outstanding Student (*2023 - 2024*, top 10%)
-- Kingdomcares Scholarship (*2023 - 2024*, top 5%)
-- 1st Class Scholarship for Outstanding Student (*2024 - 2025*, top 5%)
-- Merchants Union Consumer Finance Company Limited Scholarship (*2024 - 2025*, top 5%, Biennial award)  
+# � Internship
 
-<span style="font-size: 1.2em; font-weight: bold;">Projects</span>  
-- China National-Level Innovation Project, Leader (*2024 - 2025*, 4 out of 71, 24K CNY)
-- China National-Level Innovation Project, Core Member (*2023 - 2024*, 3 out of 43, 24K CNY)  
-
-<span style="font-size: 1.2em; font-weight: bold;">Competitions</span>  
-- Guangdong Province Second Prize in China Undergraduate Mathematical Contest in Modeling (*2024 - 2025*, top 18% in province)
+- *2025.12 – 2026.04*: **Ant Group**, Ling Team, Research Intern
 
 ---
-<!-- # Technical Skills 💻 -->
-<!-- <span style="font-size: 1.2em; font-weight: bold;">Programming Languages</span>  -->
-<!-- - **C & C++** (Proficient) -->
-<!-- - **Rust** 🦀 (Advanced, I love its disciplined elegance.) -->
-<!-- - **Go & Java** (Intermediate)  -->
+# 🏆 Awards & Honors
 
-# 💬 Languages  
-- **English** (Proficient, IELTS 7)
-- **Chinese** (Native speaker)
-- **Cantonese** (Elementary, But I'm improving💪)
-- **Xiang Dialect** (Native speaker)
+- **National Scholarship** (*2024–2025*)
+- **1st Class Academic Scholarship, SYSU** (*2024–2025*, top 5%)
 
 ---
-# 🌟 Community Contribution 
-<span style="font-size: 1.2em; font-weight: bold;">Illuminating Youth, Empowering Futures: A Volunteer Teaching Journey</span>  
-**Xupu County, Hunan · *2022.7-2022.8***  
-[News report link (in Chinese)](https://m.voc.com.cn/xhn/news/202207/17454263.html)
-
----
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=qk3qaVrPcP47uNTlR8Cii3-WV8cYtO63kkRzMNwTU68&co=3589c4'></script>
 
 ⏳  Last updated: {% if page.last_modified_at %}{{ page.last_modified_at | date: "%B %d, %Y" }}{% elsif page.date %}{{ page.date | date: "%B %d, %Y" }}{% else %}{{ site.time | date: "%B %d, %Y" }}{% endif %}.

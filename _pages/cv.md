@@ -11,54 +11,44 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Science, The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), 2026–2031 (expected)
+  * Admitted; Advisor: [Prof. Pinjia He](https://pinjiahe.github.io/), School of Data Science
+* B.S. in Software Engineering, Sun Yat-sen University (SYSU), 2022–2026
+  * Advisor: Assoc. Prof. Mingwei Liu, School of Software Engineering
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Mar 2025 – Present: **LLM-based Automated Code Repository Migration**
+  * Sun Yat-sen University, Supervised by Assoc. Prof. Mingwei Liu
+  * Designed an interactive code migration framework combining LLM, static analysis (AST), and test-driven verification to automate software version upgrades and reduce manual effort.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep 2024 – Mar 2025: **Benchmark for API Evolution in LLM-based Rust Code Generation (RustEvo²)**
+  * Sun Yat-sen University, Supervised by Assoc. Prof. Mingwei Liu
+  * Proposed the EvoEval two-stage framework for automatic API change collection and LLM-based task construction. Built RustEvo², covering common API change patterns across multiple version spans. SOTA models (GPT-4o, Qwen2.5, LLaMA-3) showed an average 17.6% drop in Pass@1 on evolved APIs.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* Feb 2024 – Dec 2024: **Test-Driven Code Search Benchmark (CoSQA+)**
+  * Sun Yat-sen University, Supervised by Asst. Prof. Yanlin Wang
+  * Designed a multi-model candidate selection + test-driven multi-agent annotation pipeline. Built CoSQA+ (412K triples) with annotation accuracy of 93.9%; achieved significant MAP@10 and MRR improvements on CodeBERT, UniXcoder, and CodeT5+.
+
+Internship
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Dec 2025 – Apr 2026: Research Intern, **Ant Group**, Ling Team
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Skills
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* **Programming Languages**: Python, Java, C++, C, Rust
+* **ML/DL**: PyTorch, HuggingFace Transformers, Scikit-learn; LLM fine-tuning, Prompt engineering, RLHF
+* **Tools**: Git, Docker, Anaconda
+* **Language**: Chinese (native), English (IELTS 6.5)
+
+Awards & Honors
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* National Scholarship (2024–2025)
+* 1st Class Academic Scholarship, SYSU (2024–2025, top 5%)
+* 3rd Class Academic Scholarship, SYSU (2023–2024, top 30%)
