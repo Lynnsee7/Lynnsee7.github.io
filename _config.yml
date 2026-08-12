@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Linxi Liang (梁琳茜)"
-description              : "Incoming PhD student at CUHK-Shenzhen, working on AI for Software Engineering, LLM security, and trustworthy AI."
+description              : "PhD student at CUHK-Shenzhen, working on AI for Software Engineering and trustworthy AI."
 repository               : "Lynnsee7/Lynnsee7.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Linxi Liang 梁琳茜"
   avatar           : "images/newprofile.jpg"
-  bio              : "Incoming PhD Student @ CUHK-Shenzhen"
+  bio              : "PhD Student @ CUHK-Shenzhen"
   location         : "Shenzhen, China"
   employer         : "Sun Yat-sen University"
   pubmed           : 
