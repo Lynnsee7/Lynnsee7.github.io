@@ -6,8 +6,9 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the
 # server process.
 
-# Basic Site Settings
+# Basic Site Settings       
 locale: "en-US"
+ 
 site_theme: "default"
 title: "Linxi Liang"
 title_separator: "-"
@@ -40,7 +41,7 @@ author:
   orcid: #"https://orcid.org/0009-0004-5773-8716"
   semantic: # URL
   pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate: # URL
+  researchgate: # URL       
   scopus: # URL
 
   # Repositories and software development
