@@ -14,8 +14,7 @@ I am **Linxi Liang (梁琳茜)**, a PhD student in Computer Science at the [Scho
 
 My research sits at the intersection of software engineering and large language models. I am mainly interested in **AI for Software Engineering** and **trustworthy AI**.
 
-I am always happy to talk about research or potential collaborations. Reach me at <a href="mailto:linxiliang7170@gmail.com">linxiliang7170@gmail.com</a> or <a href="mailto:226040031@link.cuhk.edu.cn">226040031@link.cuhk.edu.cn</a>.
-
+I am always happy to talk about research or potential collaborations.😃 Reach me at <a href="mailto:linxiliang7170@gmail.com">linxiliang7170@gmail.com</a> or <a href="mailto:226040031@link.cuhk.edu.cn">226040031@link.cuhk.edu.cn</a>.
 
 # 🔥 News
 - *2026.09*: &nbsp;🎉 I will start my PhD in Computer Science at CUHK-Shenzhen, supervised by Prof. Pinjia He.
@@ -26,7 +25,7 @@ I am always happy to talk about research or potential collaborations. Reach me a
 
 # 📝 Publications 
 
-<sub>\* denotes equal contribution.</sub>
+<small>\* denotes equal contribution.</small>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSE 2026</div><a href="images/paper-cosqa.png" title="Click to view the full-size figure"><img src='images/paper-cosqa.png' alt="The three-stage CoSQA+ construction pipeline" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
@@ -54,7 +53,7 @@ Jing Gong\*, Yanghui Wu\*, **Linxi Liang**\*, Yanlin Wang, Zibin Zheng, et al.
 
 # 💻 Internships
 - *2025.12 - 2026.04*, **Research Intern**, Ling Team, [Ant Group](https://www.antgroup.com/en), Hangzhou, China.
-- *2025.07 - 2025.09*, **Visiting Research Intern**, [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/), HKUST, Hong Kong SAR.
+- *2025.07 - 2025.09*, **Visiting Research Intern**, [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/), HKUST, Hong Kong SAR. Supervised by [Prof. Jialun Cao](https://jialuncao.github.io/).
 
 # 🎖 Honors and Awards
 - *2024 - 2025*, National Scholarship for Undergraduate Students.
