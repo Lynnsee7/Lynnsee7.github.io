@@ -28,7 +28,7 @@ I am always happy to talk about research or potential collaborations. Reach me a
 
 <sub>\* denotes equal contribution.</sub>
 
-<div class='paper-box paper-box--wide'><div class='paper-box-image'><div><div class="badge">IEEE TSE 2026</div><a href="images/paper-cosqa.png" title="Click to view the full-size figure"><img src='images/paper-cosqa.png' alt="The three-stage CoSQA+ construction pipeline" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSE 2026</div><a href="images/paper-cosqa.png" title="Click to view the full-size figure"><img src='images/paper-cosqa.png' alt="The three-stage CoSQA+ construction pipeline" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CoSQA+: Enhancing Code Search Evaluation With a Multi-Choice Benchmark and Test-Driven Agents](https://doi.org/10.1109/TSE.2025.3631886)
@@ -36,14 +36,11 @@ I am always happy to talk about research or potential collaborations. Reach me a
 Jing Gong\*, Yanghui Wu\*, **Linxi Liang**\*, Yanlin Wang, Zibin Zheng, et al.
 
 *IEEE Transactions on Software Engineering*, vol. 52, no. 1, pp. 206–220, 2026. **(CCF A)**
-
-[**DOI**](https://doi.org/10.1109/TSE.2025.3631886)
 - A multi-choice code search benchmark of **412,080** query-code pairs, pairing each query with multiple validated answers instead of a single one.
-- A test-driven multi-agent annotation pipeline that raises annotation accuracy to **93.0%**, outperforming both human annotation and single-LLM labeling.
 </div>
 </div>
 
-<div class='paper-box paper-box--wide'><div class='paper-box-image'><div><div class="badge">Preprint</div><a href="images/paper-rustevo.png" title="Click to view the full-size figure"><img src='images/paper-rustevo.png' alt="The two-phase RustEvo2 construction framework" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><a href="images/paper-rustevo.png" title="Click to view the full-size figure"><img src='images/paper-rustevo.png' alt="The two-phase RustEvo2 construction framework" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RustEvo²: An Evolving Benchmark for API Evolution in LLM-based Rust Code Generation](https://arxiv.org/abs/2503.16922)
@@ -51,10 +48,7 @@ Jing Gong\*, Yanghui Wu\*, **Linxi Liang**\*, Yanlin Wang, Zibin Zheng, et al.
 **Linxi Liang**, Jing Gong, Mingwei Liu, Chong Wang, Xin Peng, et al.
 
 *Preprint, arXiv:2503.16922*
-
-[**arXiv**](https://arxiv.org/abs/2503.16922)
 - **EvoEval**, a two-phase framework that collects real Rust API changes and turns each of them into an executable code generation task with tests and ground truth.
-- Mainstream LLMs lose **17.6%** Pass@1 on evolved APIs compared to stable ones; retrieval over official changelogs recovers roughly **60%** of that gap.
 </div>
 </div>
 

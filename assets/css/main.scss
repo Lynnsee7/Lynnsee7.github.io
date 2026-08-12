@@ -87,36 +87,6 @@
 
 }
 
-// Wide pipeline figures are illegible in the 400px image column, so this
-// variant stacks the figure above the text at full content width and lifts the
-// venue badge out of the artwork instead of overlaying its top-left corner.
-.paper-box.paper-box--wide {
-    display: block;
-
-    .paper-box-image {
-        display: block;
-        width: 100%;
-        max-width: 100%;
-        margin-bottom: 1.5em;
-
-        img {
-            max-width: 100%;
-            object-fit: contain;
-        }
-    }
-
-    .paper-box-text {
-        max-width: 100%;
-        padding-left: 0;
-    }
-
-    .badge {
-        position: static;
-        display: inline-block;
-        margin: 0 0 .75em 0;
-    }
-}
-
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 

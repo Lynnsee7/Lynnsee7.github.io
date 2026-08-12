@@ -18,8 +18,8 @@ the anchor Jekyll generates from a heading, so renaming a heading in
 
 Publication teaser images live in `images/` and are rendered from the figure
 PDFs with `pdftoppm -png -scale-to-x 1600 -scale-to-y -1 -singlefile fig.pdf
-images/paper-name`. Each one links to itself so the full-size version opens on
-click, which matters because the card only shows it about 400px wide.
+images/paper-name`. The card shows them at about 400px, so each one links to
+itself and the full-size version opens on click.
 
 ## Local preview
 
