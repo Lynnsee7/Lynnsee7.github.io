@@ -28,7 +28,7 @@ I am always happy to talk about research or potential collaborations. Reach me a
 
 <sub>\* denotes equal contribution.</sub>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSE 2026</div><img src='images/paper-cosqa.svg' alt="CoSQA+" width="100%"></div></div>
+<div class='paper-box paper-box--wide'><div class='paper-box-image'><div><div class="badge">IEEE TSE 2026</div><a href="images/paper-cosqa.png" title="Click to view the full-size figure"><img src='images/paper-cosqa.png' alt="The three-stage CoSQA+ construction pipeline" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CoSQA+: Enhancing Code Search Evaluation With a Multi-Choice Benchmark and Test-Driven Agents](https://doi.org/10.1109/TSE.2025.3631886)
@@ -37,13 +37,13 @@ Jing Gong\*, Yanghui Wu\*, **Linxi Liang**\*, Yanlin Wang, Zibin Zheng, et al.
 
 *IEEE Transactions on Software Engineering*, vol. 52, no. 1, pp. 206–220, 2026. **(CCF A)**
 
-[**arXiv**](https://arxiv.org/abs/2406.11589) \| [**DOI**](https://doi.org/10.1109/TSE.2025.3631886)
+[**DOI**](https://doi.org/10.1109/TSE.2025.3631886)
 - A multi-choice code search benchmark of **412,080** query-code pairs, pairing each query with multiple validated answers instead of a single one.
 - A test-driven multi-agent annotation pipeline that raises annotation accuracy to **93.0%**, outperforming both human annotation and single-LLM labeling.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper-rustevo.svg' alt="RustEvo2" width="100%"></div></div>
+<div class='paper-box paper-box--wide'><div class='paper-box-image'><div><div class="badge">Preprint</div><a href="images/paper-rustevo.png" title="Click to view the full-size figure"><img src='images/paper-rustevo.png' alt="The two-phase RustEvo2 construction framework" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RustEvo²: An Evolving Benchmark for API Evolution in LLM-based Rust Code Generation](https://arxiv.org/abs/2503.16922)
@@ -63,5 +63,5 @@ Jing Gong\*, Yanghui Wu\*, **Linxi Liang**\*, Yanlin Wang, Zibin Zheng, et al.
 - *2025.07 - 2025.09*, **Visiting Research Intern**, [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/), HKUST, Hong Kong SAR.
 
 # 🎖 Honors and Awards
-- *2024 - 2025*, National Scholarship for Undergraduate Students (Top 5%).
+- *2024 - 2025*, National Scholarship for Undergraduate Students.
 - *2024 - 2025*, Sun Yat-sen University First-Class Outstanding Student Scholarship (Top 5%).

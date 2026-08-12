@@ -16,8 +16,10 @@ the section links in the top navigation bar are in
 the anchor Jekyll generates from a heading, so renaming a heading in
 `about.md` means updating its `url` here too.
 
-Publication teaser images are hand-written SVGs in `images/`. Swap in a real
-figure from the paper whenever one is available.
+Publication teaser images live in `images/` and are rendered from the figure
+PDFs with `pdftoppm -png -scale-to-x 1600 -scale-to-y -1 -singlefile fig.pdf
+images/paper-name`. Each one links to itself so the full-size version opens on
+click, which matters because the card only shows it about 400px wide.
 
 ## Local preview
 
