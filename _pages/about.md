@@ -53,7 +53,7 @@ Jing Gong\*, Yanghui Wu\*, **Linxi Liang**\*, Yanlin Wang, Zibin Zheng, et al.
 
 # 💻 Internships
 - *2025.12 - 2026.04*, **Research Intern**, Ling Team, [Ant Group](https://www.antgroup.com/en), Hangzhou, China.
-- *2025.07 - 2025.09*, **Visiting Research Intern**, [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/), HKUST, Hong Kong SAR. Supervised by [Prof. Jialun Cao](https://jialuncao.github.io/).
+- *2025.07 - 2025.09*, **Visiting Research Intern**, Department of Computer Science and Engineering, HKUST, Hong Kong SAR. Supervised by [Prof. Jialun Cao](https://jialuncao.github.io/).
 
 # 🎖 Honors and Awards
 - *2024 - 2025*, National Scholarship for Undergraduate Students.
