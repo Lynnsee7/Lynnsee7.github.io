@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Linxi Liang"
   avatar           : "images/newprofile.jpg"
-  bio              : "PhD Student @ CUHK-Shenzhen"
+  bio              : # "PhD Student @ CUHK-Shenzhen"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
